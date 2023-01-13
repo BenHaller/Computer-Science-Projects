@@ -4,7 +4,7 @@ Through this course, I learned the foundations of the basic data structures (dic
 
 The portion of assignments that I created in this course do not necessarily provide functionality on their own, as they call upon classes created by my professor. However, this course involved the implementation of multiple different data structures as well as specific function-serving algorithms.
 
-This course involved programming in Java, for which I learned how to naviage the Eclipse IDE.
+This course involved programming in Java, through which I learned how to naviage the Eclipse IDE.
 
 ## Assignments
 
